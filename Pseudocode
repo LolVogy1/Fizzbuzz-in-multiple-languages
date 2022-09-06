@@ -1,0 +1,24 @@
+
+Fizzbuzz():
+	# Arrays of multiples used in the game and fizzbuzz strings
+	# This could be made into a dictionary
+	string fizzBuzz[] = ["Fizz", "Buzz"]
+	int multiples[] = [3, 5]
+	
+	# Loop from 0 to 100
+	for ( int i = 0 to 100)
+		# Empty string
+		string output = ""
+		# For each multiple
+		for ( int j in multiples)
+			#if the number is a multiple
+			if ( i % multiples[j] == 0)
+				# Append the string
+				output.append(fizzBuzz[j])
+		
+		# An empty string indicates that it is not a multiple
+		if (output == "")
+			# So just print the number
+			print(i)
+		else
+			print output
