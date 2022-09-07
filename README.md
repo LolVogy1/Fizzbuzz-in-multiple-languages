@@ -12,4 +12,20 @@ Else enter the number
 
 For this project I will be writing code for fizzbuzz in multiple languages and additional rules may be added.
 
+Languages done:
+Python
+C#
+C++
+
+Languages To do:
+C
+Java
+Javascript
+Haskell
+
+Possible Languages:
+Rust
+Go
+Swift
+
 This is purely for funsies.
