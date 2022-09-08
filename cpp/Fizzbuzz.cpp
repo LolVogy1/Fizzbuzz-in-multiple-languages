@@ -6,7 +6,7 @@ int main() {
 	int multiples[] = { 3, 5 };
 
 	//from 1 to 100
-	for (int i = 0; i <= 100; i++) {
+	for (int i = 1; i <= 100; i++) {
 		std::string output = "";
 		//for each multiple
 		for (int j = 0; j <= (sizeof(multiples) / sizeof(*multiples)) - 1; j++) {
