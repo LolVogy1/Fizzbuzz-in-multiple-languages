@@ -15,7 +15,7 @@ namespace FizzBuzzCS
             int[] multiples = { 3, 5 };
 
             // Loop from 1 to 100
-            for (int i = 0; i <= 100; i++)
+            for (int i = 1; i <= 100; i++)
             {
                 // Empty string 
                 string output = "";
