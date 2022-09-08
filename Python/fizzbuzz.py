@@ -5,8 +5,8 @@ def fizzbuzz():
     fizz_buzz = ["Fizz", "Buzz"]
     multiples = [3, 5]
 
-    # Loop 0 to 100
-    for i in range(0, 100):
+    # Loop 1 to 100
+    for i in range(1, 101):
         # Empty string
         output = ""
         # Loop through multiples
