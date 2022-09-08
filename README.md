@@ -16,10 +16,10 @@ Languages done:
 Python
 C#
 C++
+Java
 
 Languages To do:
 C
-Java
 Javascript
 Haskell
 
